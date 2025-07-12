@@ -10,7 +10,7 @@
 
 ## 🖥️ Live Demo
 
-🌐 [https://poke-dex-pro-kgzo-g5q3qcyfm-faisal-a0fca0e3.vercel.app](https://poke-dex-pro-kgzo-g5q3qcyfm-faisal-a0fca0e3.vercel.app/)
+🌐 [https://poke-dex-pro.netlify.app/](https://poke-dex-pro.netlify.app/)
 
 ---
 
